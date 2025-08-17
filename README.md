@@ -12,12 +12,12 @@ This repository ensures transparency by publicly providing the Privacy Policy fo
 
 ## 🔐 Privacy Policy
 The latest version of the Privacy Policy is available here:  
-👉 [View Privacy Policy](https://yourusername.github.io/your-repo-name/)
+👉 [View Privacy Policy]([https://yourusername.github.io/your-repo-name/](https://mayankm97.github.io/privacy-policy/))
 
 ## 📬 Contact
 For any questions or concerns regarding the Privacy Policy or the app, please reach out:  
 
-- 📧 Email: **support.arlearningapp@gmail.com**  
+- 📧 Email: **mayankmishra180520@gmail.com**  
 - 🌐 GitHub Issues: Use the [Issues tab](../../issues) to report concerns  
 
 ## 📄 License
